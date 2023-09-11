@@ -40,7 +40,7 @@ context("Create Post", () => {
             body: objBody,
             headers: {'Content-Type': 'application/json'}
             }).then(function (response) {
-                // check response status should be error in client side 4xx but regarding the actual result is success then check ok response
+                // check response status should be error in client side 4xx but regarding the actual result is success then check 201 status repsonse
                 //expect(response.status).to.eq(400)
                 expect(response.status).to.eq(201)
             });
@@ -58,7 +58,7 @@ context("Create Post", () => {
             body: objBody,
             headers: {'Content-Type': 'application/json'}
             }).then(function (response) {
-                // check response status should be error in client side 4xx but regarding the actual result is success then check ok response
+                // check response status should be error in client side 4xx but regarding the actual result is success then check 201 status repsonse
                 //expect(response.status).to.eq(400)
                 expect(response.status).to.eq(201)
             });
@@ -76,7 +76,7 @@ context("Create Post", () => {
             body: objBody,
             headers: {'Content-Type': 'application/json'}
             }).then(function (response) {
-                // check response status should be error in client side 4xx but regarding the actual result is success then check ok response
+                // check response status should be error in client side 4xx but regarding the actual result is success then check 201 status repsonse
                 //expect(response.status).to.eq(400)
                 expect(response.status).to.eq(201)
             });
@@ -94,7 +94,7 @@ context("Create Post", () => {
             body: objBody,
             headers: {'Content-Type': 'application/json'}
             }).then(function (response) {
-                // check response status should be error in client side 4xx but regarding the actual result is success then check ok response
+                // check response status should be error in client side 4xx but regarding the actual result is success then check 201 status repsonse
                 //expect(response.status).to.eq(400)
                 expect(response.status).to.eq(201)
             });
