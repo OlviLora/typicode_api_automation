@@ -9,7 +9,7 @@ The features of this project:
 ## Prerequisites
 - Node.js and npm (Node Package Manager)
 - Git
-For the detail set-up you can read https://docs.cypress.io/guides/getting-started/installing-cypress.
+- For the detail set-up you can read https://docs.cypress.io/guides/getting-started/installing-cypress.
 
 ## How to Run?
 1. Clone the repository
@@ -34,11 +34,15 @@ git clone git@github.com:OlviLora/typicode_api_automation.git
 
 
 8. Scroll down to file `create_post.cy.js` and `get_post.cy.js`
-<img width="351" alt="Screen Shot 2023-08-24 at 12 01 17" src="https://github.com/OlviLora/api_ui_automation/assets/11285853/9fda0dcd-7fc4-4c99-80cf-613f4d2b118f">
+<img width="1243" alt="Screen Shot 2023-09-11 at 11 48 42" src="https://github.com/OlviLora/typicode_api_automation/assets/11285853/7d76fdea-23bb-4feb-800f-740d56378dd3">
 
 
 9. If you want to run the automation then click each file `create_post.cy.js` and `get_post.cy.js`.
 
 10. The automation will be run in the browser.
-- API Automation
-<img width="1512" alt="Screen Shot 2023-08-24 at 12 06 08" src="https://github.com/OlviLora/api_ui_automation/assets/11285853/c673c430-ef09-4923-b294-9d3b82898482">
+- Get List of Posts<br />
+<img width="814" alt="Screen Shot 2023-09-11 at 11 50 03" src="https://github.com/OlviLora/typicode_api_automation/assets/11285853/05b46ad2-4f12-4454-aeb4-7810e6553a8f"><br />
+- Create Post<br />
+<img width="818" alt="Screen Shot 2023-09-11 at 11 50 50" src="https://github.com/OlviLora/typicode_api_automation/assets/11285853/fc024fc6-845b-41db-a71b-5926970f7f26"><br />
+
+
