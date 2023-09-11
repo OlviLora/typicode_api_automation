@@ -3,8 +3,8 @@ Automation API using Cypress tesing tool.
 
 ## Features
 The features of this project:
-- API Automation to Get list of Posts
-- API Automation to Create Post
+- API Automation to Get list of Posts (https://github.com/OlviLora/typicode_api_automation/blob/master/cypress/e2e/api/get_post.cy.js)
+- API Automation to Create Post (https://github.com/OlviLora/typicode_api_automation/blob/master/cypress/e2e/api/create_post.cy.js)
 
 ## Prerequisites
 - Node.js and npm (Node Package Manager)
